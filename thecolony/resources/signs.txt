@@ -1,0 +1,26 @@
+house
+Zayve Brock Quality Detective Services
+No case too big or small
+xxx
+haven
+Zayve Brock QUALITY DETECTIVE SERVICES
+No case too big or small
+Very good detective - 4.5/5 - The Haven Times
+xxx
+haven market
+Ubermart
+Lowest prices guaranteed
+xxx
+museum
+Exhibits Closed
+xxx
+museum2
+Inferno-Class Bomber
+These bombers were used by the Colonies Defense Force to launch antimatter missiles. The bomber on display here crashed in Haven after an engine failure.
+xxx
+ubermart
+Shipment X93-5
+Contents: Exenol, Noctaine
+Shipped to: Ubermart storage center
+Shipped from: Macho's Nachos production center
+xxx

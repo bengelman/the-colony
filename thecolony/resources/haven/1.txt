@@ -1,0 +1,6 @@
+UNLOCK
+zayvehead.png Good morning, Bill.
+haven/billhead.png Hey Zayve. How's business?
+zayvehead.png Not bad.
+haven/billhead.png I hear the CDF might try to retake Haven soon.
+zayvehead.png I sure hope not.

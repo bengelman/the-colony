@@ -1,0 +1,4 @@
+UNLOCK
+haven/bishhead.png BAGELMAN
+haven/bagelhead.png CamBish
+haven/bishhead.png We meet again

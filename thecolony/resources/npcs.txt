@@ -1,0 +1,191 @@
+first
+Hey
+xxx
+basehangar
+normachead.png The ship's ready. We'd better go.
+zayvehead.png Where are we going?
+normachead.png I'll take us to the Resistance base on Bellona.
+xxx
+secretbaseoffice
+normachead.png So, the main reason I'm actually here on Bellona is that this base was probably the one used to ship the antimatter bomb you were talking about.
+normachead.png Here we go. There was a recent shipment to Viis-5. The contents are labelled "classified." That's probably the antimatter bomb you were looking for.
+zayvehead.png Awesome sauce.
+normachead.png Wait a second...
+normachead.png There's a Triad gunship squadron approaching from the east. They'll get here before we can take off.
+normachead.png I'm going to need you to hold them off while I get my ship ready. There should be some weapons outside the door that you could use.
+zayvehead.png Oh boy.
+xxx
+outsideprison
+zayvehead.png That isn't the ship you had before.
+normachead.png Yeah, I picked it up at a runway. It's faster, so we'll have a better chance at getting off the planet without problems.
+zayvehead.png I'm pretty sure that's the one I stole from the Triad earlier.
+normachead.png Cool. But we do need to get going. Did you set the charges?
+zayvehead.png Yep.
+normachead.png What are you waiting for? Detonate them!
+zayvehead.png Oh, right.
+*Click*
+*BOOM*
+normachead.png You know, The Resistance could really use someone like you.
+zayvehead.png I'm just a private detective. I'm in way over my head. 
+normachead.png You did just gun through about twenty armed soldiers.
+zayvehead.png I'm not really the hero type. I was honestly just in this for the enormous reward.
+normachead.png Well... I guess I'll take you back to Haven then.
+zayvehead.png Thanks. But if you ever need something investigated, give me a call. My rates are very reasonable.
+normachead.png Sure thing. And thanks for all your help back there.
+xxx
+toys r ok
+zayvehead.png Hi. Zayve Brock, private investigator. Has anyone bought a light-up toy gun in the last few days?
+cashierhead.png Yes, I believe so.
+zayvehead.png Do you have any information on him.
+cashierhead.png As a matter of fact, yes. I think he created a free Toys R OK frequent buyer account, let me pull it up...
+cashierhead.png Here it is. His name is Edud Yhcteks. His address is 4612 Vine Drive. That's just down the street.
+zayvehead.png Thanks.
+xxx
+convenience store
+cstorehead.png You're Zayve Brock, right? The detective?
+zayvehead.png Yeah.
+cstorehead.png Our store was recently robbed, and a couple crates of soft drinks were stolen.
+zayvehead.png Do you have security cameras in here?
+cstorehead.png Yes. Our cameras got a picture of the robbery. I'll pull it up for you...
+xxx
+prisoncontrol
+zayvehead.png Here we go. Security systems disabled.
+xxx
+cell
+zayvehead.png Wha-? Where am I?
+normachead.png Oh, you're awake. You're in the Triad prison on Tartarus, the largest moon of Vulcan. I'm Normac Namlegne.
+zayvehead.png I'm Zayve. Zayve Brock.
+normachead.png So how'd you end up in this hellhole?
+zayvehead.png It's a long story. Basically I was investigating a crime that the Triad was involved with. They stole some stuff from a museum.
+normachead.png You're police? With the CDF?
+zayvehead.png No, nothing like that. I'm just a private investigator.
+normachead.png Oh, good. I'm with the Resistance.
+zayvehead.png Oh yeah, you're the guys who destroyed the CDF installation on Vulcan, right?
+normachead.png Yeah, that was us. We did a pretty good job, too. The CDF kept it under wraps, though. Where'd you hear about it?
+zayvehead.png I... uh... You know. Around. 
+zayvehead.png So how long have you been here?
+normachead.png The Triad picked me up a month or two ago. I was leading a hostage rescue mission. Turned out our intel was wrong. Everything went south fast. I don't think anyone else in the team made it.
+zayvehead.png Sorry to hear that. So you're a commander, then?
+normachead.png Not really. This was the first mission where I was in charge.
+normachead.png Tell me, Zayve. What are your thoughts on the Resistance?
+zayvehead.png I don't know. I guess I'm not really a fan of the CDF or Triad, so there's that.
+normachead.png Close enough. I have a plan to break out of here, but I'll need your help.
+zayvehead.png Break out? How?
+normachead.png I've cut a passage into the back of the cell that can be used to get into the maintenance tunnels. Guard shifts are spread out enough that we can use the tunnels to get to the breaker room. From there I can deactivate the security systems, and we can break out.
+zayvehead.png Alright.
+normachead.png Just take off that fake wall, get into the vents, and turn right. I'll be going the other way to turn off the backup systems. Take this knife, in case something happens and you have to defend yourself. 
+zayvehead.png How did you get a knife into prison?
+normachead.png It was easy compared to getting a shotgun into prison.
+zayvehead.png You have a shotgun?
+normachead.png Yep.
+xxx
+house
+UNLOCK
+zayvehead.png Hey Ferrell, how's it going buddy?
+xxx
+museum
+museum/npchead.png Welcome to the Museum of History!
+zayvehead.png Do you know where I could find the curator?
+museum/npchead.png Just down the hall on your right
+xxx
+museum2
+curatorhead.png If there's anything I can do to assist you, do not hesitate to let me know.
+xxx
+haven
+UNLOCK
+haven/bishhead.png BAGELMAN
+haven/bagelhead.png CamBish
+haven/bishhead.png We meet again
+xxx
+landingzone
+UNLOCK
+zayvehead.png I can use this starship to get to Cacus, but I have no idea where the base is. I guess I should head to the biggest town, then ask around.
+xxx
+prison
+normachead.png If you can get a keycard from a guard, we can break out of here.
+xxx
+hangar
+UNLOCK
+normachead.png The ship's ready. Hop aboard.
+xxx
+base
+base/josephhead.png What am I doing here? I was sitting in my room playing a game... now I'm in this game.
+zayvehead.png ...
+xxx
+haven market
+chuckhead.png Have you ever tried a child's heart?
+zayvehead.png Um.
+chuckhead.png I might have to kill you soon.
+zayvehead.png Okey dokey.
+chuckhead.png I still owe you for those fries. That's why I'm letting you live.
+zayvehead.png I'll consider the debt paid.
+xxx
+cannon1
+Charge planted
+xxx
+prison2
+Charge planted
+xxx
+haven suburbs
+zayvehead.png Do you know where I could find Devona Martenzel?
+haven/bagelhead.png The alien? What would you want with it?
+zayvehead.png I'm investigating a theft. She might be involved.
+haven/bagelhead.png I should've known. Aliens are nothing but trouble.
+haven/bagelhead.png It left town a while ago. Its brother still lives here though. His house is on your left.
+zayvehead.png Thank you very much.
+xxx
+jmishtin house
+jmishtin.png Good morning. Are you Devona's brother?
+jmishtin.png Yep. What can I do for you?
+zayvehead.png I have a few questions for you about her and the work she does.
+jmishtin.png Oh, is this about her work with the Triad?
+zayvehead.png ...Yes.
+jmishtin.png Oh, I know everything! She's been sending me postcards about it. The Triad sounds awesome! 
+jmishtin.png Wait, why do you want to know?
+zayvehead.png Well, I'm from the Triad. I just need to know what Devona has told you about us. For... security reasons.
+jmishtin.png You're from the Triad? Wow! My sister's letters to me are on that table. Everything should be there. 
+zayvehead.png Thank you.
+jmishtin.png Do you guys have any job openings that need filling? I have lots of skills and I'd love to work with the Triad. From what Devona has told me it sounds like the best.
+zayvehead.png We're, uh... not hiring at the moment. But we'll let you know if a position opens up. 
+xxx
+bunker
+UNLOCK
+zayvehead.png This is brutal - Did Michael Chuck do this?
+xxx
+househaven2
+UNLOCK
+zayvehead.png Good morning, Phil.
+philhead.png What are you doing in my house?
+zayvehead.png Good to see you too.
+xxx
+glitch
+bagelhead.png Hey! Welcome to my house. I, of course, am Bagelman, developer of this game.
+bagelhead.png This is the house that inaccessible doors lead to. If you're here, something is wrong.
+bagelhead.png If you got here without altering game files, you should really contact the developer.
+bagelhead.png But it's really much more likely you just hacked your way in here.
+xxx
+skyscraper1
+skyscraper1/npchead.png Good afternoon! Do you need help with anything?
+zayvehead.png Do you happen to know where the Stosthor Triad base on Cacus is?
+skyscraper1/npchead.png Two buildings over, to your left when you leave the building.
+xxx
+skyscraper2
+skyscraper2/npchead.png Welcome to Kennedy Tower. May I help you with anything?
+zayvehead.png I've heard rumours of the presence of a Triad base here on Cacus. Do you know where I could find it?
+skyscraper2/npchead.png There's one a block from here.
+xxx
+triadoffices
+triadoffices/npchead.png Welcome to the Cacus Triad Headquarters! How may I help you?
+zayvehead.png I need information on a Triad employee named Devona Martenzel.
+triadoffices/npchead.png I can't just divulge employee information without a reason.
+zayvehead.png My name is Zayve Vellkry. I'm a private investigator. I was hired by the Triad to find the source of an intelligence leak, and I have been informed that Devona Martenzel may have information on it.
+triadoffices/npchead.png Oh, well in that case, let me check our database... No, there's nobody working for the Triad with that name.
+zayvehead.png Are you sure? Can you check the records for other Triad bases?
+triadoffices/npchead.png Yeah, I already did. There's nobody working for the Triad with that name.
+zayvehead.png That can't be right. I'm sure there's a Devona Martenzel working for the Triad.
+triadoffices/npchead.png There are certain Triad divisions that operate separately from main Triad operations. If she was a part of one of them, she wouldn't be registered in the system.
+zayvehead.png Hmmm... she was a hacker involved in a Triad theft operation.
+triadoffices/npchead.png Then she would probably be in the Special Intelligence Division. Of course, we at the Triad can assure you that all of our operations are 100% legal and ethical. This "theft" was probably only an operation to reclaim property rightfully belonging to the Triad.
+zayvehead.png Thanks for your help.
+triadoffices/npchead.png Have a nice day.
+xxx
